@@ -45,7 +45,8 @@ If you have a Supermicro X10DAL-i ( or problems with other bios/boards )
     
     Use a USB formatting tool (for example rufus) to write the image to USB (take care to write over the right drive)
     
-    Move the directory D:\xxxxx\BIN to D:\BIN  # Depending on the 
+    Move the directory D:\xxxxx\BIN to D:\BIN 
+      :  > Depending on the release this BIN folder may be in a different location ◀️
     
     Create or Edit first and last two lines in D:\FDCONFIG.SYS as follows
 
